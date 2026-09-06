@@ -1,16 +1,18 @@
-# 📊 Pranav N. Ghate
-### **Data Analyst & Full Stack Developer | BI & Data Engineering Specialist**
+<div align="center">
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80" alt="Data Analytics Banner" width="100%" style="border-radius: 10px;" />
-</p>
+  <img src="./profile.png" alt="Pranav Ghate" width="180" style="border-radius: 50%; border: 3px solid #0A66C2;" />
 
-<p align="left">
-  <a href="https://linkedin.com/in/pranav-ghate"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:pranavghate45@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://pranavghate45.github.io/data-analyst-portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
-  <a href="https://raw.githubusercontent.com/pranavghate45/data-analyst-portfolio/main/Pranav_Ghate_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-38BDF8?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" /></a>
-</p>
+  # Pranav N. Ghate
+  ### **Data Analyst & Full Stack Developer | BI & Data Engineering Specialist**
+
+  <p align="center">
+    <a href="https://linkedin.com/in/pranav-ghate"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:pranavghate45@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://pranavghate45.github.io/data-analyst-portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+    <a href="https://raw.githubusercontent.com/pranavghate45/data-analyst-portfolio/main/Pranav_Ghate_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-38BDF8?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" /></a>
+  </p>
+
+</div>
 
 ---
 
@@ -69,14 +71,12 @@ Passionate **Data Analyst** and **MCA Graduate** from *Modern College of Enginee
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=600&q=80" alt="OmniTrend Analytics" width="100%" style="border-radius: 8px;" />
       <h3 align="center">📊 OmniTrend Data Platform</h3>
       <p>Predictive Customer Revenue & Churn Intelligence Engine using SQL CTEs, Python ML models, and dynamic Chart.js dashboards.</p>
       <p align="center"><b>Tech Stack:</b> <code>SQL</code> <code>Python</code> <code>Machine Learning</code> <code>Chart.js</code></p>
       <p align="center"><a href="https://pranavghate45.github.io/data-analyst-portfolio/omnitrend_analytics.html"><b>🔗 Live Project Demo</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://images.unsplash.com/photo-1543286386-713bdd548da4?auto=format&fit=crop&w=600&q=80" alt="Sales Dashboard" width="100%" style="border-radius: 8px;" />
       <h3 align="center">📈 Sales Analysis Dashboard</h3>
       <p>Interactive Power BI report backed by Advanced Excel data cleaning routines, custom DAX profit margin measures, and trends.</p>
       <p align="center"><b>Tech Stack:</b> <code>Power BI</code> <code>DAX</code> <code>Advanced Excel</code></p>
@@ -85,14 +85,12 @@ Passionate **Data Analyst** and **MCA Graduate** from *Modern College of Enginee
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?auto=format&fit=crop&w=600&q=80" alt="Netflix Analysis" width="100%" style="border-radius: 8px;" />
       <h3 align="center">🎬 Netflix Global Content Analysis</h3>
       <p>Exploratory Data Analysis (EDA) on streaming catalogs evaluating content distribution, release patterns, and runtime analytics.</p>
       <p align="center"><b>Tech Stack:</b> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>Seaborn</code></p>
       <p align="center"><a href="https://pranavghate45.github.io/data-analyst-portfolio/netflix_analysis.html"><b>🔗 Live EDA Demo</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=600&q=80" alt="Tic Tac Toe" width="100%" style="border-radius: 8px;" />
       <h3 align="center">🎮 Interactive Tic-Tac-Toe Game</h3>
       <p>Console-based logic engine implementing dynamic matrix grid rendering, automated turn logic, loops, and win algorithms.</p>
       <p align="center"><b>Tech Stack:</b> <code>Python Core</code> <code>Algorithms</code> <code>Logic Design</code></p>
